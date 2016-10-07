@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="3DRendererITU/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="3DRendererITU/lib/javaGeom-0.11.1.jar"/>
+	<classpathentry kind="output" path="3DRendererITU/bin"/>
+</classpath>

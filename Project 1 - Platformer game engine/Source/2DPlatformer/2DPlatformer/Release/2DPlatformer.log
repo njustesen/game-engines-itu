@@ -1,0 +1,23 @@
+﻿Build started 11-12-2012 21:36:05.
+     1>Project "C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\2DPlatformer\2DPlatformer.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Release\2DPlatformer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:SDL.lib /LIBPATH:SDLmain.lib /LIBPATH:SDL_image.lib SDL.lib SDLmain.lib SDL_image.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Release\2DPlatformer.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Release\2DPlatformer.lib" /MACHINE:X86 /SAFESEH Release\Animation.obj
+         Release\Camera.obj
+         Release\Character.obj
+         Release\CollisionBox.obj
+         Release\Fireball.obj
+         Release\GameObject.obj
+         Release\InputController.obj
+         Release\Level.obj
+         Release\main.obj
+         Release\MapController.obj
+         Release\Monster.obj
+         Release\PhysicsController.obj
+         Release\Point2D.obj
+         Release\Sprite.obj
+         2DPlatformer.vcxproj -> C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Release\2DPlatformer.exe
+     1>Done Building Project "C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\2DPlatformer\2DPlatformer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53

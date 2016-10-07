@@ -1,0 +1,26 @@
+﻿Build started 11-12-2012 21:08:22.
+     1>Project "C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\2DPlatformer\2DPlatformer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MapController.cpp
+         MapController.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Debug\2DPlatformer.exe" /INCREMENTAL /NOLOGO /LIBPATH:SDL.lib /LIBPATH:SDLmain.lib /LIBPATH:SDL_image.lib SDL.lib SDLmain.lib SDL_image.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Debug\2DPlatformer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Debug\2DPlatformer.lib" /MACHINE:X86 Debug\Animation.obj
+         Debug\Camera.obj
+         Debug\Character.obj
+         Debug\CollisionBox.obj
+         Debug\Fireball.obj
+         Debug\GameObject.obj
+         Debug\InputController.obj
+         Debug\Level.obj
+         Debug\main.obj
+         Debug\MapController.obj
+         Debug\Monster.obj
+         Debug\PhysicsController.obj
+         Debug\Point2D.obj
+         Debug\Sprite.obj
+         2DPlatformer.vcxproj -> C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\Debug\2DPlatformer.exe
+     1>Done Building Project "C:\Users\noju\Dropbox\Game Engines CD\Project 1 - Platformer game engine\new\2DPlatformer\2DPlatformer\2DPlatformer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:54.96
